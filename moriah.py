@@ -1,0 +1,1 @@
+print ("moriah is from Nigeria")
